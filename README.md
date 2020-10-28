@@ -1,2 +1,2 @@
-# Build a Linear Regression Neural Network using Tensor Flow
+# Performing Linear Regression Using Tensor Flow
 
