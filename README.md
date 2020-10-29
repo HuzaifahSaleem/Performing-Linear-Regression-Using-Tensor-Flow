@@ -36,12 +36,12 @@ Following steps are involved in the process and are explained below in detail wi
 
 ### Step 1:
 -	Sign up or Sign in to [IBM Cloud](https://ibm.biz/BdqtVY). 
--	Search for Watson Studio Service.
+-	Search for Watson Studio / CPDaaS Service.
 -	Create the service by selecting the region and pricing plan of your preference
 <p align="center">
-<img src=""  width="800">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/Searchforcpd.png?raw=true"  width="800">
 </p>
 
 <p align="center">
-<img src=""  width="800">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/createcpd.png?raw=true"  width="800">
 </p>
