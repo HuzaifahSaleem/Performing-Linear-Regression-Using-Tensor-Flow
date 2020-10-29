@@ -45,3 +45,56 @@ Following steps are involved in the process and are explained below in detail wi
 <p align="center">
 <img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/createcpd.png?raw=true"  width="800">
 </p>
+
+### Step 2:
+-	Launch the Watson Studio service. 
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/createaproject.png?raw=true"  width="800">
+</p>
+
+-	Click on create a project and create an empty project. Make sure you name your project and add a storage service as shown in the picture.
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/createnewproject.png?raw=true"  width="800">
+</p>
+
+-	After your project is created, you will be directed to a project dashboard.
+
+### Step 3:
+-	Go to settings of the project.
+-	click on the add service button in the associated service tab. Select Watson in the drop-down menu.
+
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/settingsandassociate.png?raw=true"  width="800">
+</p>
+
+-	Add the Watson Machine Learning Service. Mark the service and Associate it with the Project as shown below.
+
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/selectmlservice.png?raw=true"  width="800">
+</p>
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/associatemlservice.png?raw=true"  width="800">
+</p>
+
+### Step 4:
+-	Add a Jupyter notebook to your project by clicking on Add to Project and selecting Notebook in the pop-up menu.
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/addjupyter.png?raw=true"  width="800">
+</p>
+
+-	Select ‘From URL’ option and paste the notebook url from the github repo:
+```
+https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/Notebook/PerformingLinearRegressionUsingTensorFlow.ipynb
+```
+- Name your notebook and click create.
+
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/pasteurl.png?raw=true"  width="800">
+</p>
+
+### Step 5:
+Once the notebook is loaded. Click on Cell and Select Run All to run the notebook. The rest of the tutorial is explained in the notebook in detail.
+
+<p align="center">
+<img src="https://github.com/IBM/Performing-Linear-Regression-Using-Tensor-Flow/blob/master/doc/source/images/runnotebook.png?raw=true"  width="800">
+</p>
